@@ -2,4 +2,8 @@ Hello I am Vikrant Prasad.
 I am a coder.
 i like the VS Code interface.
 
+<<<<<<< HEAD
 This edit is in the master branch.
+=======
+I am in the new-feature branch. 
+ 
